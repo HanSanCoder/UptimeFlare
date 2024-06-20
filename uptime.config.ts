@@ -14,7 +14,7 @@ const workerConfig = {
       id: 'homepage_monitor',
       name: 'My HomePage',
       method: 'GET',
-      target: 'https://www.gintama.love'
+      target: 'https://gintama.love'
     },
     {
       id: 'blog_monitor',
