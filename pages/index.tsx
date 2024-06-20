@@ -103,7 +103,7 @@ export async function getServerSideProps() {
     return {
       id: monitor.id,
       name: monitor.name,
-      tooltip: monitor?.tooltip,
+      // tooltip: monitor?.tooltip,
       statusPageLink: monitor?.statusPageLink
     }
   })
