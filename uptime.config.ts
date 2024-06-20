@@ -2,7 +2,7 @@ const pageConfig = {
   title: "HanSan's Status Page",
   links: [
     { link: 'https://github.com/HanSanCoder', label: 'GitHub' },
-    { link: 'https://www.gintama.love', label: 'Blog' },
+    { link: 'https://my.gintama.love', label: 'Blog' },
     { link: 'mailto:hehansan@gintama.love', label: 'Email Me', highlight: true },
   ],
 }
