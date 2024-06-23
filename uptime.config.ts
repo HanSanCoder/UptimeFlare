@@ -22,6 +22,12 @@ const workerConfig = {
       method: 'GET',
       target: 'https://my.gintama.love'
     },
+    {
+      id: 'loliapi_monitor',
+      name: 'LoliAPI',
+      method: 'GET',
+      target: 'https://www.loliapi.com'
+    },
   ],
   callbacks: {
     onStatusChange: async (
