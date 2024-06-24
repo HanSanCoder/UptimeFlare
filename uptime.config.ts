@@ -8,7 +8,7 @@ const pageConfig = {
 }
 
 const workerConfig = {
-  kvWriteCooldownMinutes: 3,
+  kvWriteCooldownMinutes: 5,
   monitors: [
     {
       id: 'homepage_monitor',
